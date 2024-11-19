@@ -45,13 +45,13 @@
     },
     "menuText": {
       "fontFamily": "fontStack3",
-      "fontWeight": "400",
+      "fontWeight": "900",
       "fontStyle": "normal",
-      "fontSize": "1.5rem",
+      "fontSize": "70px",
       "lineHeight": 1,
-      "color": "#000000",
-      "marginTop": "4px",
-      "marginBottom": "4px"
+      "color": "#CD0A0A",
+      "marginTop": "3px",
+      "marginBottom": "0px"
     }
   }
 }
