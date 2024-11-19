@@ -1,35 +1,35 @@
 {
-  "siteTitle": "Website",
+  "siteTitle": "NEN",
   "position": {
     "discriminant": "top",
     "value": {
       "u": "1712840379550",
-      "alwaysDropdown": false
+      "alwaysDropdown": true
     }
   },
   "appearance": {
     "blurBehind": true
   },
   "sizes": {
-    "topBarHeight": "60px",
+    "topBarHeight": "55px",
     "topBarPadding": "1rem",
     "menuPadding": "1rem",
     "subItemIndent": "10px"
   },
   "colors": {
-    "backgroundColor": "#9cacff87",
-    "menuHoverColor": "#ffffff80",
-    "dropdownColor": "#0a0057ed",
-    "dropdownHoverColor": "#ffffff80"
+    "backgroundColor": "#98F190",
+    "menuHoverColor": "#1A6906",
+    "dropdownColor": "#98F190",
+    "dropdownHoverColor": "#1A6906"
   },
   "typography": {
     "menuMain": {
-      "fontFamily": "fontStack1",
+      "fontFamily": "fontStack3",
       "fontWeight": "400",
       "fontStyle": "normal",
       "fontSize": "1.5rem",
       "lineHeight": 1,
-      "color": "#0a0057",
+      "color": "#000000",
       "marginTop": "0.5rem",
       "marginBottom": "0.5rem"
     },
@@ -49,7 +49,7 @@
       "fontStyle": "normal",
       "fontSize": "1.5rem",
       "lineHeight": 1,
-      "color": "#0a0057",
+      "color": "#000000",
       "marginTop": "4px",
       "marginBottom": "4px"
     }

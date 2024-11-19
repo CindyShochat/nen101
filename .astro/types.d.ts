@@ -144,6 +144,27 @@ declare module 'astro:content' {
 } & { render(): Render[".mdoc"] };
 };
 "pages": {
+"course-1.mdoc": {
+	id: "course-1.mdoc";
+  slug: "course-1";
+  body: string;
+  collection: "pages";
+  data: any
+} & { render(): Render[".mdoc"] };
+"course-2.mdoc": {
+	id: "course-2.mdoc";
+  slug: "course-2";
+  body: string;
+  collection: "pages";
+  data: any
+} & { render(): Render[".mdoc"] };
+"course-3.mdoc": {
+	id: "course-3.mdoc";
+  slug: "course-3";
+  body: string;
+  collection: "pages";
+  data: any
+} & { render(): Render[".mdoc"] };
 "hidden-page.mdoc": {
 	id: "hidden-page.mdoc";
   slug: "hidden-page";
@@ -151,9 +172,16 @@ declare module 'astro:content' {
   collection: "pages";
   data: any
 } & { render(): Render[".mdoc"] };
-"styles.mdoc": {
-	id: "styles.mdoc";
-  slug: "styles";
+"introduction.mdoc": {
+	id: "introduction.mdoc";
+  slug: "introduction";
+  body: string;
+  collection: "pages";
+  data: any
+} & { render(): Render[".mdoc"] };
+"meet-the-team.mdoc": {
+	id: "meet-the-team.mdoc";
+  slug: "meet-the-team";
   body: string;
   collection: "pages";
   data: any
