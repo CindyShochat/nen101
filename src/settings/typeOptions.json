@@ -1,6 +1,6 @@
 {
   "general": {
-    "baseFontSizeSm": "20px",
+    "baseFontSizeSm": "30px",
     "baseFontSizeLg": "30px"
   },
   "p": {
@@ -28,7 +28,7 @@
     "fontWeight": "500",
     "fontStyle": "normal",
     "fontSize": "60px",
-    "lineHeight": 0.5,
+    "lineHeight": 2,
     "color": "#000000",
     "marginTop": "0.5em",
     "marginBottom": "0.5em"
